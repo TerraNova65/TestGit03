@@ -18,4 +18,4 @@ def run():
     arc_name = input() # make sure to type the name in the output section below
     nme = q01(arc_name)
     print(nme)
-    # This call function will allow user to enter the name in the console below and tje out put will sow
+    # This call function will allow user to enter the name in the console below and the output will show
