@@ -11,7 +11,7 @@ def q01(name):
 def run():
     #print(q01('Barbatos')) #This call function will alow you to call 1 name and its output
     # imagine having this print function for Morax, Beelzebub and Buer!!
-    # if your are dealing with many names, this function can be very tedious.
+    # if you are dealing with many names, this function can be very tedious.
     # the function below is much better in my opinion
 
     #this function call is much cleaner and can handle many names
